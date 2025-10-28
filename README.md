@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm ABlyh-LEO, and you can just call me ABlyh(In most social accounts I will use the nickname "ABlyh").
 
-Now, I am a sophomore student of the School of the Gifted Young of USTC. My major is mathematics, and I hope to engage in the research of computational mathematics in the future. At the same time, I also like computer science and minor in it.
+Now, I am a junior student of the School of the Gifted Young of USTC. My major is mathematics, and I hope to engage in the research of computational mathematics in the future. At the same time, I also like computer science and minor in it.
 
 I used to be an algorithm competitor. Although my grades were not so good, it was a valuable experience for me. At the moment my focus outside of class is on the RoboMaster robotics competition, but perhaps in the future I will return to the algorithm competition. Anyway, coding has been a big part of my life, you know.
 
